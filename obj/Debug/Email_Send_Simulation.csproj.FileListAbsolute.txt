@@ -1,0 +1,10 @@
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\bin\Debug\Email_Send_Simulation.exe.config
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\bin\Debug\Email_Send_Simulation.exe
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\bin\Debug\Email_Send_Simulation.pdb
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\obj\Debug\Email_Send_Simulation.csprojAssemblyReference.cache
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\obj\Debug\Email_Send_Simulation.Form1.resources
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\obj\Debug\Email_Send_Simulation.Properties.Resources.resources
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\obj\Debug\Email_Send_Simulation.csproj.GenerateResource.cache
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\obj\Debug\Email_Send_Simulation.csproj.CoreCompileInputs.cache
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\obj\Debug\Email_Send_Simulation.exe
+c:\users\x\source\repos\Email_Send_Simulation\Email_Send_Simulation\obj\Debug\Email_Send_Simulation.pdb
